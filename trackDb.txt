@@ -25,7 +25,7 @@ nautoscale on
 
 track SRR13190129_chr5.bw
 bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190129_chr5.bw
-shortLabelSRR13190129_chr5.bw
+shortLabel SRR13190129_chr5.bw
 longLabel SRR13190129_chr5.bw
 type bigWig
 nvisibility full
