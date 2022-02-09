@@ -1,0 +1,6 @@
+hub 687_visualization
+shortLabel 687_visualization
+longLabel 687_visualization
+genomesFile genomes.txt
+email 
+descriptionUrl

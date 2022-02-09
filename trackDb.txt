@@ -1,0 +1,51 @@
+track SEACR_peaks
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/Relaxed_intersections.bb
+shortLabel SEACR_peaks
+longLabel SEACR_peaks
+type bigBed
+nvisibility dense
+ncolor 0,0,255
+
+track HOMER_peaks
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/HOMER_intersections.bb
+shortLabel HOMER_peaks
+longLabel HOMER_peaks
+type bigBed
+nvisibility dense
+ncolor 0,0,255
+
+track SRR13190128_chr7.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190128_chr7.bw
+shortLabel SRR13190128_chr7.bw
+longLabel SRR13190128_chr7.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR13190129_chr7.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190129_chr7.bw
+shortLabel SRR13190129_chr7.bw
+longLabel SRR13190129_chr7.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR13190130_chr7.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190130_chr7.bw
+shortLabel SRR13190130_chr7.bw
+longLabel SRR131901230_chr7.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR13190131_chr7.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190131_chr7.bw
+shortLabel SRR13190131_chr7.bw
+longLabel SRR13190131_chr7.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
