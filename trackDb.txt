@@ -14,37 +14,37 @@ type bigBed
 nvisibility dense
 ncolor 0,0,255
 
-track SRR13190128_chr7.bw
-bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190128_chr7.bw
-shortLabel SRR13190128_chr7.bw
-longLabel SRR13190128_chr7.bw
+track SRR13190128_chr5.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190128_chr5.bw
+shortLabel SRR13190128_chr5.bw
+longLabel SRR13190128_chr5.bw
 type bigWig
 nvisibility full
 nmaxHeightPixels 100:30:8
 nautoscale on
 
-track SRR13190129_chr7.bw
-bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190129_chr7.bw
-shortLabel SRR13190129_chr7.bw
-longLabel SRR13190129_chr7.bw
+track SRR13190129_chr5.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190129_chr5.bw
+shortLabelSRR13190129_chr5.bw
+longLabel SRR13190129_chr5.bw
 type bigWig
 nvisibility full
 nmaxHeightPixels 100:30:8
 nautoscale on
 
-track SRR13190130_chr7.bw
-bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190130_chr7.bw
-shortLabel SRR13190130_chr7.bw
-longLabel SRR131901230_chr7.bw
+track SRR13190130_chr5.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190130_chr5.bw
+shortLabel SRR13190130_chr5.bw
+longLabel SRR13190130_chr5.bw
 type bigWig
 nvisibility full
 nmaxHeightPixels 100:30:8
 nautoscale on
 
-track SRR13190131_chr7.bw
-bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190131_chr7.bw
-shortLabel SRR13190131_chr7.bw
-longLabel SRR13190131_chr7.bw
+track SRR13190131_chr5.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR13190131_chr5.bw
+shortLabel SRR13190131_chr5.bw
+longLabel SRR13190131_chr5.bw
 type bigWig
 nvisibility full
 nmaxHeightPixels 100:30:8
