@@ -49,3 +49,66 @@ type bigWig
 nvisibility full
 nmaxHeightPixels 100:30:8
 nautoscale on
+
+track SRR15680097_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680097_chr5_READS.bw
+shortLabel SRR15680097_chr5_READS.bw
+longLabel SRR15680097_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680098_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680098_chr5_READS.bw
+shortLabel SRR15680098_chr5_READS.bw
+longLabel SRR15680098_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680099_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680099_chr5_READS.bw
+shortLabel SRR15680099_chr5_READS.bw
+longLabel SRR15680099_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680100_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680100_chr5_READS.bw
+shortLabel SRR15680100_chr5_READS.bw
+longLabel SRR15680100_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680101_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680101_chr5_READS.bw
+shortLabel SRR15680101_chr5_READS.bw
+longLabel SRR15680101_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680111_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680111_chr5_READS.bw
+shortLabel SRR15680111_chr5_READS.bw
+longLabel SRR15680111_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
+
+track SRR15680112_chr5_READS.bw
+bigDataUrl https://raw.githubusercontent.com/cainbn97/687_mapping/main/SRR15680112_chr5_READS.bw
+shortLabel SRR15680112_chr5_READS.bw
+longLabel SRR15680112_chr5_READS.bw
+type bigWig
+nvisibility full
+nmaxHeightPixels 100:30:8
+nautoscale on
